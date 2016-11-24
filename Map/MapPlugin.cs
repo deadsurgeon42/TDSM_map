@@ -8,7 +8,7 @@ using TerrariaApi.Server;
 
 namespace Map
 {
-    [ApiVersion(1, 25)]
+    [ApiVersion(1, 26)]
     public partial class MapPlugin : TerrariaPlugin
     {
 		PropertiesFile properties;
